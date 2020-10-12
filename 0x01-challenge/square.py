@@ -3,7 +3,7 @@
 
 
 class Square:
-    """ Square """
+    """ This class will be the blueprint for every square object """
     width = 0
     height = 0
 
